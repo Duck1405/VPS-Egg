@@ -136,7 +136,7 @@ if [ ! -e "$ROOTFS_DIR/.installed" ]; then
     echo -e "${GREEN}│                                                                                │${NC}"
     echo -e "${GREEN}│                             Pterodactyl VPS EGG                                │${NC}"
     echo -e "${GREEN}│                                                                                │${NC}"
-    echo -e "${GREEN}│                           ${RED}© 2021 - 2024 ${PURPLE}ysdragon${GREEN}                               │${NC}"
+    echo -e "${GREEN}│                           ${RED}© 2021 - 2024 ${PURPLE}duck${GREEN}                               │${NC}"
     echo -e "${GREEN}│                                                                                │${NC}"
     echo -e "${GREEN}╰────────────────────────────────────────────────────────────────────────────────╯${NC}"
     echo "                                                                                               "

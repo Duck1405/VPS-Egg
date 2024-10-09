@@ -17,13 +17,13 @@ if [ "$PWD" = "/root"* ]; then
 fi
 
 printf "\033c"
-printf "${GREEN}╭────────────────────────────────────────────────────────────────────────────────╮${NC}\n"
-printf "${GREEN}│                                                                                │${NC}\n"
-printf "${GREEN}│                             Pterodactyl VPS EGG                                │${NC}\n"
-printf "${GREEN}│                                                                                │${NC}\n"
-printf "${GREEN}│                           ${RED}© 2021 - 2024 ${PURPLE}ysdragon${GREEN}                               │${NC}\n"
-printf "${GREEN}│                                                                                │${NC}\n"
-printf "${GREEN}╰────────────────────────────────────────────────────────────────────────────────╯${NC}\n"
+printf "${GREEN} _____         __                     _______               __   __              ${NC}\n"
+printf "${GREEN}|     \.-----.|  |--.-----.-----.    |   |   |.-----.-----.|  |_|__|.-----.-----.${NC}\n"
+printf "${GREEN}|  --  |  -__||    <|  _  |__ --|    |       ||  _  |__ --||   _|  ||     |  _  |${NC}\n"
+printf "${GREEN}|_____/|_____||__|__|_____|_____|    |___|___||_____|_____||____|__||__|__|___  |${NC}\n"
+printf "${GREEN}                                                                          |_____|${NC}\n"
+printf "${GREEN}              Made By Duck: For More info my discord is jakethedev.              ${NC}\n"
+printf "${GREEN}${NC}\n"
 printf "                                                                                               \n"
 printf "root@MyVPS:${DIR}#                                                                             \n"
 
